@@ -1,4 +1,4 @@
-def test_item(browser):
+def test_find__card_button(browser):
     import time
 
     link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
